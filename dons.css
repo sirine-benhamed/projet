@@ -1,3 +1,29 @@
-body{
-background: url(istockphoto-1217187000-612x612.jpg) center no-repeat;
+
+body,html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+
+}
+.ima{
+    background: url(otherprojects.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    opacity: 0,5;
+}
+body {
+    font-family: "PT Sans",Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #555;
+    background-color: #f1efeb;
+}
+.title{
+    text-align: center;
+    padding-top: 200px;
+    color: #f1efeb;
 }
