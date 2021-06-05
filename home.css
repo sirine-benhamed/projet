@@ -140,12 +140,12 @@ padding-top: 20px;
  }
  .contac{
      padding-top: 150px;
-color: #fff;
+color: rgb(224, 220, 220);
 text-decoration: none;
 border-radius: 1px solid ;
  }
  .header__texturee{
-     padding-top: 140px;
+     padding-top: 84px;
  }
  .contac:hover{
     color:black;
@@ -232,4 +232,90 @@ padding-bottom: 230px;
 .qq{
     padding-top: 40px;
     padding-bottom: 10px;
+}
+.lan{
+    margin-left: 1000px;
+    padding-top: 0px;
+}
+.coule{
+    color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+}
+.conf{
+    width: auto;
+    height: 208px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.aa{
+    text-align: center;
+}
+.ccc{
+    color: #333;
+}
+.ccc:hover{
+    color:black;
+
+}
+
+.confi{
+    width: auto;
+    height: 275px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.confii{
+    width: auto;
+    height: 430px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+
+.p{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+.confiii{
+    width: auto;
+    height: 960px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.confiiii{
+    width: auto;
+    height: 240px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.confiiiii{
+    width: auto;
+    height: 285px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.ff{
+    float: left;
+}
+
+#ff1{
+    padding-left: 300px;
 }
