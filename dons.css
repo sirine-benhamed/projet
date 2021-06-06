@@ -27,3 +27,39 @@ body {
     padding-top: 200px;
     color: #f1efeb;
 }
+.conff{
+    width: auto;
+    height: 290px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.confiiiiii{
+    width: auto;
+    height: 390px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+
+}
+.conffiiiiii{
+    width: auto;
+    height: 480px;
+   background-color: #f7f6f4; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+
+}
+#ai{
+    padding-bottom: 50px;
+}
+
+#bot{
+    margin-left: 145px;
+}

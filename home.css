@@ -15,6 +15,15 @@
    position: relative;
    font-family: 'Poppins','sans-serif';
  }
+
+ .hheader{
+    height: 450px;
+    width: 100%;
+ 
+   background: rgb(173, 164, 219);
+   position: relative;
+   font-family: 'Poppins','sans-serif';
+ }
 .header__navbar{
    width: 100%;
    height: 100px;
@@ -84,6 +93,18 @@ body,html{
     /*z-index: 1;*/
     opacity: 0.5;
 }
+
+
+.hheader__texture{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0; left: 0;
+    background: url(session-photo-bebe.jpg) center no-repeat;
+    background-size: cover;
+    /*z-index: 1;*/
+    opacity: 0.5;
+}
 .headerr__texturee{
     width: 100%;
     height: 100%;
@@ -128,6 +149,7 @@ padding-top: 20px;
 }
 
 
+
 .fin{
     height: 300px;
     width: 100%;
@@ -154,6 +176,15 @@ border-radius: 1px solid ;
 .aarticle{
     width: auto;
     height: 270px;
+   background-color: #cfcbc3; 
+ border-radius: 5px;
+ margin-bottom: 30px;
+
+padding-top: 20px;
+}
+.aarticcle{
+    width: auto;
+    height: 125px;
    background-color: #cfcbc3; 
  border-radius: 5px;
  margin-bottom: 30px;
@@ -241,6 +272,11 @@ padding-bottom: 230px;
     color: rgb(255, 255, 255);
     padding-bottom: 20px;
 }
+.coulle{
+    color: #333;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
 .conf{
     width: auto;
     height: 208px;
@@ -317,5 +353,8 @@ padding-top: 20px;
 }
 
 #ff1{
-    padding-left: 300px;
+    padding-left: 210px;
+}
+#ff2{
+    padding-left: 200px;
 }
