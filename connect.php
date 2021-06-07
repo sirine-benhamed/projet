@@ -24,25 +24,25 @@
       <h2 class="title">Connexion</h2>
       <div class="input-field">
        <i class="fas fa-envelope"></i>
-       <input type="email" name="username" placeholder="Email" />
+       <input type="email" name="username" placeholder="Email" required />
       </div>
       <div class="input-field">
        <i class="fas fa-lock"></i>
-       <input type="password" name="pwd" placeholder="Enter your password" />
+       <input type="password" name="pwd" placeholder="Enter your password" required/>
       </div>
       <input class="btn solid" type="submit" value="Se Connecter" />
       <p class="social-text">Se connecter sur d'autre réseaux</p>
       <div class="social-media">
-       <a href="#" class="social-icon" id="facebook">
+       <a href="https://www.facebook.com" class="social-icon" id="facebook" target="_blank">
         <i class="fab fa-facebook-f"></i>
        </a>
-       <a href="#" class="social-icon" id="twitter">
+       <a href="https://twitter.com" class="social-icon" id="twitter" target="_blank">
         <i class="fab fa-twitter"></i>
        </a>
-       <a href="#" class="social-icon" id="google">
+       <a href="https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession" class="social-icon" id="google" target="_blank">
         <i class="fab fa-google"></i>
        </a>
-       <a href="#" class="social-icon" id="linkedin">
+       <a href="https://www.linkedin.com/signup" class="social-icon" id="linkedin" target="_blank">
         <i class="fab fa-linkedin-in"></i>
        </a>
       </div>
@@ -51,29 +51,29 @@
       <h2 class="title">S'inscrire</h2>
       <div class="input-field">
        <i class="fas fa-user"></i>
-       <input type="text"  placeholder="Username" />
+       <input type="text"  placeholder="Username" required/>
       </div>
       <div class="input-field">
        <i class="fas fa-envelope"></i>
-       <input type="email" name="username" placeholder="Email" />
+       <input type="email" name="username" placeholder="Email" required/>
       </div>
       <div class="input-field">
        <i class="fas fa-lock"></i>
-       <input type="password" name="pwd" placeholder="Password" />
+       <input type="password" name="pwd" placeholder="Password" required/>
       </div>
       <input type="submit" class="btn" value="S'inscrire" />
       <p class="social-text">Ou s'inscrire avec d'autres réseaux</p>
       <div class="social-media">
-       <a href="#" class="social-icon" id="facebook">
+       <a href="https://www.facebook.com" class="social-icon" id="facebook" target="_blank">
         <i class="fab fa-facebook-f"></i>
        </a>
-       <a href="#" class="social-icon" id="twitter">
+       <a href="https://twitter.com" class="social-icon" id="twitter" target="_blank">
         <i class="fab fa-twitter"></i>
        </a>
-       <a href="#" class="social-icon" id="google">
+       <a href="https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession" class="social-icon" id="google" target="_blank">
         <i class="fab fa-google"></i>
        </a>
-       <a href="#" class="social-icon" id="linkedin">
+       <a href="https://www.linkedin.com/signup" class="social-icon" id="linkedin" target="_blank">
         <i class="fab fa-linkedin-in"></i>
        </a>
       </div>

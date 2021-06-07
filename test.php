@@ -21,7 +21,7 @@ if (isset($_POST['username']) and isset($_POST['pwd'])) // On a le nom et le pwd
     if (filter_var($email, FILTER_VALIDATE_EMAIL)==true){
         header('location:dons.html');
     } else{
-        echo 'not ';
+        header('location:err.html');
     }
 }
 /*else // Il manque des paramètres, on avertit le visiteur
