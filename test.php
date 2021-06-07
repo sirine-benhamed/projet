@@ -19,7 +19,7 @@ if (isset($_POST['username']) and isset($_POST['pwd'])) // On a le nom et le pwd
 {
 	$email = $_POST['username'];
     if (filter_var($email, FILTER_VALIDATE_EMAIL)==true){
-        header('location:dons.html');
+        header('location:dons.php');
     } else{
         header('location:err.html');
     }

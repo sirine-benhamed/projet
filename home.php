@@ -22,10 +22,10 @@
                         <h1 class="header__navbar--logo-title">DonsSolidaires</h1>
                     </div>
                     <div class=" cc">
-                        <a href="home.html" class="cc">Acceil</a>
-                        <a href="" class="cc">Se connecter</a>
-                        <a href="dons.html" class="cc">Je fais un don</a>
-                        <a href="nous.html" class="cc">Contact</a>
+                        <a href="home.php" class="cc">Acceil</a>
+                        <a href="connect.php" class="cc" target="_blank">Se connecter</a>
+                        <a href="connect.php" class="cc" target="_blank">Je fais un don</a>
+                        <a href="nous.php" class="cc">Contact</a>
                     </div>
 
                 </div>
@@ -161,7 +161,7 @@
 
 
                     <h5 class="env"> N'ATTENDEZ PLUS ! </h5>
-                    <button type="button" class="btn btn-secondary"><a href="dons.html" class="coul"> Je crée ma
+                    <button type="button" class="btn btn-secondary"><a href="dons.php" class="coul"> Je crée ma
                             cagnotte
                         </a></button>
 
@@ -179,14 +179,14 @@
                     <div class="header__texturee">
                         <h4 class="coule">À PROPOS DE DonsSolidaires </h4>
                         <div class="div11">
-                            <a href="nous.html" class="contac">Qui sommes nous</a><br><br>
+                            <a href="nous.php" class="contac">Qui sommes nous</a><br><br>
                         </div>
 
                         <div class="div12">
-                            <a href="" class="contac">Se connecter</a><br><br>
+                            <a href="connect.php" class="contac" target="_blank">Se connecter</a><br><br>
                         </div>
                         <div class="div13">
-                            <a href="dons.html" class="contac">Faire un don</a>
+                            <a href="connect.php" class="contac" target="_blank">Faire un don</a>
                         </div>
                     </div>
 
@@ -197,8 +197,8 @@
                     <div class="header__texturee">
                         <h4 class="coule">CONDITIONS </h4>
                         <div class="div11">
-                            <a href="confidentialite.html" class="contac" target="_blank">Politique de confidentialité</a><br><br>
-                            <a href="cookies.html" class="contac" target="_blank">Préférences de cookies</a><br><br>
+                            <a href="confidentialite.php" class="contac" target="_blank">Politique de confidentialité</a><br><br>
+                            <a href="cookies.php" class="contac" target="_blank">Préférences de cookies</a><br><br>
 
                         </div>
 
@@ -213,7 +213,7 @@
                     <div class="header__texturee">
                         <h4 class="coule">NOS CAGNOTTES </h4>
                         <div class="div11">
-                            <a href="naiss.html" class="contac">Cagnotte de naissance</a><br><br>
+                            <a href="naiss.php" class="contac">Cagnotte de naissance</a><br><br>
                         </div>
 
 
