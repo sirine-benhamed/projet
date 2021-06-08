@@ -161,7 +161,7 @@
 
 
                     <h5 class="env"> N'ATTENDEZ PLUS ! </h5>
-                    <button type="button" class="btn btn-secondary"><a href="dons.php" class="coul"> Je crée ma
+                    <button type="button" class="btn btn-secondary"><a href="connect.php" class="coul"> Je crée ma
                             cagnotte
                         </a></button>
 

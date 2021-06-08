@@ -43,7 +43,7 @@
                         <br>
                         <p class="header_TT">Un heureux événement à célébrer ? Créez une cagnotte pour le cadeau de
                             naissance !</p>
-                        <button type="button" class="btn btn-secondary" id="bot"><a href="dons.html" class="coul"> Je
+                        <button type="button" class="btn btn-secondary" id="bot"><a href="dons.php" class="coul"> Je
                                 crée ma
                                 cagnotte
                             </a></button>
@@ -76,7 +76,7 @@
 
                     <h2 class="article_title">LEUR TÉMOIGNAGE :</h2></br>
                     Pour la naissance de Louise, le premier bébé du groupe d'amis, nous avons organisé une cagnotte sur
-                    Leetchi.com. Même nos amis qui vivent à l'autre bout du monde ont pu participer !
+                    DonsSolidaires.com. Même nos amis qui vivent à l'autre bout du monde ont pu participer !
 
                     Caroline
                 </div>
@@ -86,7 +86,7 @@
 
                 <div class="test">
                     <div class="container">
-                        <h2 class="article_title"> POURQUOI CRÉER UNE CAGNOTTE LEETCHI.COM POUR UNE NAISSANCE ?</h2>
+                        <h2 class="article_title"> POURQUOI CRÉER UNE CAGNOTTE DonsSolidaires.COM POUR UNE NAISSANCE ?</h2>
                         </br>
                         <div class="suit">
                             <div class="sui"><strong class="c">PRATIQUE </strong></br>Parce qu’il est toujours compliqué

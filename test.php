@@ -30,7 +30,12 @@ if (isset($_POST['username']) and isset($_POST['pwd'])) // On a le nom et le pwd
 }*/
 ?>
 
-
+<?php
+if (isset($_POST['carte']) and isset($_POST['montant']))
+{
+    header('location:donsvalid.php');
+}
+?>
 
 
 </body>
